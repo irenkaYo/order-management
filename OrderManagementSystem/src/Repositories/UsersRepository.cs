@@ -6,8 +6,8 @@ public class UsersRepository
         "Host=localhost;" +
         "Port=5432;" +
         "Database=order_management;" +
-        "Username=postgres;" +
-        "Password=nzkhf906Fjl;";
+        "Username=####;" +
+        "Password=####;";
     
     public List<User> Users { get; private set; }
 
